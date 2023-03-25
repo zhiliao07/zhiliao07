@@ -1,5 +1,4 @@
-<p align="center" color = "pink">Hi ，我是知了！</p>
-<br />
+### Hi， 我是知了！ 👋
 
 **About me**
 
